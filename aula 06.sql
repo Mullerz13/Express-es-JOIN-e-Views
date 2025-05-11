@@ -1,9 +1,9 @@
 -- Questão 01. Crie as contas de usuário User_A, User_B, User_C, User_D e User_E
-CREATE USER User_A WITH PASSWORD = '1234!Rm';
-CREATE USER User_B WITH PASSWORD = '1234!Rm';
-CREATE USER User_C WITH PASSWORD = '1234!Rm';
-CREATE USER User_D WITH PASSWORD = '1234!Rm';
-CREATE USER User_E WITH PASSWORD = '1234!Rm';
+CREATE USER User_A WITH PASSWORD = '987654321!Rm';
+CREATE USER User_B WITH PASSWORD = '987654321!Rm';
+CREATE USER User_C WITH PASSWORD = '987654321!Rm';
+CREATE USER User_D WITH PASSWORD = '987654321!Rm';
+CREATE USER User_E WITH PASSWORD = '987654321!Rm';
 
 -- Questão 02. Considere o esquema de banco de dados relacional university
 -- O User_A poderá selecionar ou modificar qualquer relação, exceto CLASSROOM, e pode conceder qualquer um desses privilégios a outros usuários.
